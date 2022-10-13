@@ -1,1 +1,1 @@
-java $JAVA_OPTS -jar target/webapp-runner-9.0.31.0.jar
+web: npm run start
