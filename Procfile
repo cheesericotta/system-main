@@ -1,1 +1,1 @@
-web: npm run start
+web: java $JAVA_OPTS -jar target/*jar
